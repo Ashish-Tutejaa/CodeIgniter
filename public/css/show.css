@@ -1,0 +1,19 @@
+body,html{
+padding: 0px;
+margin: 0px;
+width: 100%;
+}
+
+table,td {
+border: 1px solid black;
+}
+
+.editor{
+width:350px;
+height:250px;
+position: fixed;
+top:50px;
+right:50px;
+border: 1px solid black;
+background-color: white;
+}
